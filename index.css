@@ -10,25 +10,10 @@ nav {
     border-radius: 10px;
 }
 
-
 body {
     background-color: rgb(20, 9, 28);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
-/* main {
-    background-color: rgba(111, 123, 185, 0.148);
-} */
-
-/* .about {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
-
-/* #about {
-    margin: 7%;
-} */
 
 #about {
     background-color: rgba(111, 123, 185, 0.148);
@@ -40,11 +25,11 @@ body {
     font-family:copperplate; 
 }
 
-/* .pics {
-    width:25vw; 
-    height:23vh;
-    margin-top: 2%;
-} */
+.card {
+    outline: 1px solid rgba(165, 176, 233, 0.423);
+    background-color: rgba(111, 123, 185, 0.148);
+    /* padding-bottom: 2px; */
+}
 
 .resume-pic {
     width:25vw; 
@@ -61,6 +46,7 @@ body {
 
 img {
     border-radius: 10px;
+    margin-bottom: 1vh;
 }
 
 h2 {
