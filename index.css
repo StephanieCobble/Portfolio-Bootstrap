@@ -10,6 +10,10 @@ nav {
     border-radius: 10px;
 }
 
+.card-img-top{
+    margin: 1rem;
+}
+
 body {
     background-color: rgb(20, 9, 28);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -33,7 +37,7 @@ body {
 
 .resume-pic {
     width:25vw; 
-    height:50vh;
+    height:40vh;
     margin-bottom: 2vh;
 }
 
